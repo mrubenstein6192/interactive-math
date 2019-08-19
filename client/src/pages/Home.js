@@ -39,7 +39,7 @@ class Projects extends Component {
         </div>
 
         <div className="container">
-          <div className="row align-items-center justify-content-between">
+          <div className="row align-items-center">
             {/* print out cards here */}
             {this.state.cardData.map(card => {
               return (
