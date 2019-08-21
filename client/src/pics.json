@@ -10,6 +10,12 @@
     "name": "Learn Factoring!",
     "image": "images/factoring.png",
     "link": "https://mrubenstein6192.github.io/factoring/"
+  },
+  {
+    "id": 3,
+    "name": "Learn Trigonometry",
+    "image": "images/trig.png",
+    "link": "https://mrubenstein6192.github.io/trig/"
   }
  
 ]
